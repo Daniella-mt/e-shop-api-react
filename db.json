@@ -2,7 +2,7 @@
     "produtos": [
       {
         "nome": "Produto XYZ",
-        "img": "..../assets/img/assets/img/sw1.png",
+        "img": "../../../assets/img/sw1.png",
         "preco": "R$60,00",
         "id": 1,
         "alt": "Produto",
@@ -11,7 +11,7 @@
       },
       {
         "nome": "Produto XYZ",
-        "img": "../assets/img/sw2.png",
+        "img": "../../assets/img/sw2.png",
         "preco": "R$60,00",
         "id": 2,
         "alt": "Produto",
@@ -20,7 +20,7 @@
       },
       {
         "nome": "Produto XYZ",
-        "img": "/sw3.png",
+        "img": "../../assets/img/sw3.png",
         "preco": "R$60,00",
         "id": 3,
         "alt": "Produto",
@@ -29,7 +29,7 @@
       },
       {
         "nome": "Produto XYZ",
-        "img": "../assets/img/sw4.png",
+        "img": "../../assets/img/sw4.png",
         "preco": "R$60,00",
         "id": 4,
         "alt": "Produto",
@@ -38,7 +38,7 @@
       },
       {
         "nome": "Produto XYZ",
-        "img": "/sw5.png",
+        "img": "../../assets/img/sw5.png",
         "preco": "R$60,00",
         "id": 5,
         "alt": "Produto",
@@ -47,7 +47,7 @@
       },
       {
         "nome": "Produto XYZ",
-        "img": "../assets/img/sw6.png",
+        "img": "../../assets/img/sw6.png",
         "preco": "R$60,00",
         "id": 6,
         "alt": "Produto",
@@ -56,7 +56,7 @@
       },
       {
         "nome": "Produto XYZ",
-        "img": "/cons1.png",
+        "img": "../../assets/img/cons1.png",
         "preco": "R$60,00",
         "id": 7,
         "alt": "Produto",
@@ -65,7 +65,7 @@
       },
       {
         "nome": "Produto XYZ",
-        "img": "../assets/img/cons2.png",
+        "img": "../../assets/img/cons2.png",
         "preco": "R$60,00",
         "id": 8,
         "alt": "Produto",
@@ -74,7 +74,7 @@
       },
       {
         "nome": "Produto XYZ",
-        "img": "../assets/img/cons3.png",
+        "img": "../../assets/img/cons3.png",
         "preco": "R$60,00",
         "id": 9,
         "alt": "Produto",
@@ -83,7 +83,7 @@
       },
       {
         "nome": "Produto XYZ",
-        "img": "../assets/img/cons4.png",
+        "img": "../../assets/img/cons4.png",
         "preco": "R$60,00",
         "id": 10,
         "alt": "Produto",
@@ -92,7 +92,7 @@
       },
       {
         "nome": "Produto XYZ",
-        "img": "../assets/img/cons5.png",
+        "img": "../../assets/img/cons5.png",
         "preco": "R$60,00",
         "id": 11,
         "alt": "Produto",
@@ -101,7 +101,7 @@
       },
       {
         "nome": "Produto XYZ",
-        "img": "/cons6.png",
+        "img": "../../assets/img/cons6.png",
         "preco": "R$60,00",
         "id": 12,
         "alt": "Produto",
@@ -110,7 +110,7 @@
       },
       {
         "nome": "Produto XYZ",
-        "img": "../assets/img/div1.png",
+        "img": "../../assets/img/div1.png",
         "preco": "R$60,00",
         "id": 13,
         "alt": "Produto",
@@ -119,7 +119,7 @@
       },
       {
         "nome": "Produto XYZ",
-        "img": "../assets/img/div2.png",
+        "img": "../../assets/img/div2.png",
         "preco": "R$60,00",
         "id": 14,
         "alt": "Produto",
@@ -128,7 +128,7 @@
       },
       {
         "nome": "Produto XYZ",
-        "img": "../assets/img/div3.png",
+        "img": "../../assets/img/div3.png",
         "preco": "R$60,00",
         "id": 15,
         "alt": "Produto",
@@ -137,7 +137,7 @@
       },
       {
         "nome": "Produto XYZ",
-        "img": "../assets/img/div4.png",
+        "img": "../../assets/img/div4.png",
         "preco": "R$60,00",
         "id": 16,
         "alt": "Produto",
@@ -146,7 +146,7 @@
       },
       {
         "nome": "Produto XYZ",
-        "img": "../assets/img/div5.png",
+        "img": "../../assets/img/div5.png",
         "preco": "R$60,00",
         "id": 17,
         "alt": "Produto",
@@ -155,7 +155,7 @@
       },
       {
         "nome": "Produto XYZ",
-        "img": "../assets/img/div6.png",
+        "img": "../../assets/img/div6.png",
         "preco": "R$60,00",
         "id": 18,
         "alt": "Produto",
