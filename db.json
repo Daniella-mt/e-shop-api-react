@@ -2,7 +2,7 @@
     "produtos": [
       {
         "nome": "Produto XYZ",
-        "img": "../../../assets/img/sw1.png",
+        "img": "../../assets/img/sw1.png",
         "preco": "R$60,00",
         "id": 1,
         "alt": "Produto",
