@@ -168,7 +168,12 @@
       {
         "id": 1,
         "nome": "Admin",
-        "senha": "Admin"
+        "senha": "Admin123@"
+      },
+        {
+        "id": 2,
+        "nome": "User",
+        "senha": "User123@"
       }
     ]
   }
